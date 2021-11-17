@@ -10,7 +10,7 @@ namespace Assets.Scripts.PlayerInput
         [SerializeField]
         private float speed;
 
-        public float playerSpeed;
+        private float playerSpeed;
 
         [SerializeField]
         private float jumpForce;
