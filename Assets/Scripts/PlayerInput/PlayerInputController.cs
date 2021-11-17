@@ -10,7 +10,7 @@ namespace Assets.Scripts.PlayerInput
         [SerializeField]
         private float speed;
 
-        private float playerSpeed;
+        public float playerSpeed;
 
         [SerializeField]
         private float jumpForce;
@@ -89,6 +89,7 @@ namespace Assets.Scripts.PlayerInput
 
             // flip player
             FlipPlayer(input.x);
+            Debug.Log(playerSpeed);
         }
 
         private void OnBoostMovement(InputAction.CallbackContext context)
