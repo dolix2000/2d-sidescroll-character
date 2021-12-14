@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@dolix2000 
-dolix2000
-/
-simple-breakout-game
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-simple-breakout-game/.gitignore
-@dolix2000
-dolix2000 first commit
-Latest commit a29c23a 13 days ago
- History
- 1 contributor
-58 lines (47 sloc)  753 Bytes
-   
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
